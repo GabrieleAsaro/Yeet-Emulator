@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{92C843E2-D3C9-4E82-A578-438B310E3C8A}</ProjectGuid>
+    <ProjectGuid>{7C68F403-9EE0-4B45-9FD1-D3D6B87ABB92}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Simple_Emulator</RootNamespace>
-    <AssemblyName>Simple Emulator</AssemblyName>
+    <RootNamespace>YeetEmulator.Tests</RootNamespace>
+    <AssemblyName>YeetEmulator.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YeetEmulator\YeetEmulator.csproj">
+      <Project>{120cf0ca-adff-46b1-8976-82231cf223f5}</Project>
+      <Name>YeetEmulator</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

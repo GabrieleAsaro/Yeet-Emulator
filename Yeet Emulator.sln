@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emulator.Tests", "Emulator.Tests\Emulator.Tests.csproj", "{7C68F403-9EE0-4B45-9FD1-D3D6B87ABB92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YeetEmulator.Tests", "YeetEmulator.Tests\YeetEmulator.Tests.csproj", "{7C68F403-9EE0-4B45-9FD1-D3D6B87ABB92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emulator", "Emulator\Emulator.csproj", "{120CF0CA-ADFF-46B1-8976-82231CF223F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YeetEmulator", "YeetEmulator\YeetEmulator.csproj", "{120CF0CA-ADFF-46B1-8976-82231CF223F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

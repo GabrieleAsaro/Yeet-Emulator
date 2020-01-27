@@ -7,8 +7,8 @@
     <ProjectGuid>{120CF0CA-ADFF-46B1-8976-82231CF223F5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Emulator</RootNamespace>
-    <AssemblyName>Emulator</AssemblyName>
+    <RootNamespace>YeetEmulator</RootNamespace>
+    <AssemblyName>YeetEmulator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,17 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core.cs" />
-    <Compile Include="Instructions\Instruction.cs" />
-    <Compile Include="Instructions\Base.cs" />
-    <Compile Include="OpCodes\List\Add.cs" />
-    <Compile Include="OpCodes\List\Div.cs" />
-    <Compile Include="OpCodes\List\Ldc.cs" />
-    <Compile Include="OpCodes\List\Ldstr.cs" />
-    <Compile Include="OpCodes\List\Mul.cs" />
-    <Compile Include="OpCodes\List\Ret.cs" />
-    <Compile Include="OpCodes\List\Sub.cs" />
-    <Compile Include="OpCodes\OpCodesL.cs" />
+    <Compile Include="YeetCore.cs" />
+    <Compile Include="Instructions\YeetInstruction.cs" />
+    <Compile Include="OpCodes\YeetOpCodeHandler.cs" />
+    <Compile Include="OpCodes\Handlers\Add.cs" />
+    <Compile Include="OpCodes\Handlers\Div.cs" />
+    <Compile Include="OpCodes\Handlers\Ldc.cs" />
+    <Compile Include="OpCodes\Handlers\Mul.cs" />
+    <Compile Include="OpCodes\Handlers\Ret.cs" />
+    <Compile Include="OpCodes\Handlers\Sub.cs" />
+    <Compile Include="OpCodes\YeetOpCodes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
