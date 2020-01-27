@@ -1,12 +1,12 @@
 <p align="center">
-    <img width="350" height="350" src="https://i.ibb.co/LCXnRLy/Logo-definitivo-notaccursed-Rotondo-min.png" alt="ItemFall">
+    <img width="350" height="350" src="https://i.ibb.co/LCXnRLy/Logo-definitivo-notaccursed-Rotondo-min.png" alt="Yeet Emulator">
     <br>
     <br>
     <br>
 </p>
 
 <p align="center">
-    <a href="https://github.com/NotAccursed/Simple-IL-Code-Emulator/issues">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/NotAccursed/Yeet-Emulator/issues">Contribution guide</a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/NAccursed">Twitter</a>&nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/invite/f55n5tM">Discord</a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/notaccursedtelegram">Telegram</a>&nbsp;&nbsp;&nbsp;
@@ -21,10 +21,10 @@
 </p>
 <br>
 
-# IL Emulator [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+# Yeet Emulator [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
-# 📜 Why do you need IL Emulator ?
+# 📜 Why do you need Yeet Emulator ?
 
 You can easily understand how to make a virtualization like Eazfuscator.
 
