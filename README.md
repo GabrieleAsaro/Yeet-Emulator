@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="350" height="350" src="https://i.ibb.co/LCXnRLy/Logo-definitivo-notaccursed-Rotondo-min.png" alt="Yeet Emulator">
+    <img width="350" height="350" src="https://i.imgur.com/b9lhYlU.jpg" alt="Yeet Emulator">
     <br>
     <br>
     <br>
