@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" height="500" src="https://i.imgur.com/kDkwJB9.png" alt="Yeet Emulator">
+    <img width="380" height="380" src="https://i.imgur.com/kDkwJB9.png" alt="Yeet Emulator">
 </p>
 
 <p align="center">
