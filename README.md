@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <sub>Built with ❤︎ by <a href="https://twitter.com/NAccursed">NotAccursed</a></sub>
+  <sub>Built with ❤︎ by <a href="https://twitter.com/ga_asaro">NotAccursed</a></sub>
 </p>
 <br>
 
