@@ -6,12 +6,7 @@ namespace YeetEmulator.OpCodes.Handlers
 	{
 		public override void ExecuteInstruction(YeetCore core, YeetInstruction instr)
 		{
-			if(core.VMStack.Count == 0)
-				core.VMStack.Push(null);
-
-			object ret = core.VMStack.Pop();
-
-			core.VMStack.Push(ret);
+			core.VMStack.Push(core.VMStack.Count == 0 ? null : core.VMStack.Pop());
 			core.Index++;
 		}
 	}
