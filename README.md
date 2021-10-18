@@ -11,27 +11,25 @@
 
 <br>
 
-<br>
-
 <p align="center">
   <sub>Built with ❤︎ by <a href="https://twitter.com/ga_asaro">NotAccursed</a></sub>
 </p>
+
 <br>
 
 # Yeet Emulator [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-
-# 📜 Why do you need Yeet Emulator ?
+## 📜 Why do you need Yeet Emulator
 
 You can easily understand how to make a virtualization like Eazfuscator.
 
-# 💥 What does it do ?
+## 💥 What does it do
 
 - [x] Emulate IL Code
 - [x] Easy to add more functions
 - [x] Easy to understand
 
-## Example
+### Example
 ```C#
 private static void Main(string[] args) {
 
